@@ -1,5 +1,5 @@
 {
-	"spider": "/spider.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+	"spider": "https://www.panurl.cn/down.php/2f17731525e00142be6525fdb5b65e34.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
 	"sites":[
 {"key":"天天","name":"⛅天天","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
 {"key":"csp_yxxq","name":"星球","type":3,"api":"csp_yxxq","searchable":1,"filterable":1,"ext":"https://www.yxxq27.cc"},

@@ -1,4 +1,4 @@
-{"spider":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/MCX66/TVBOX/refs/heads/main/spider.jar;md5;715e2c9d24d4516e8c7d522da45093c0","sites":[
+{"spider":"https://www.panurl.cn/down.php/715e2c9d24d4516e8c7d522da45093c0.jar;md5;715e2c9d24d4516e8c7d522da45093c0","sites":[
 {"key":"天天","name":"⛅天天","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
 {"key":"csp_yxxq","name":"星球","type":3,"api":"csp_yxxq","searchable":1,"filterable":1,"ext":"https://www.yxxq24.cc"},
 {"key":"csp_girigiri","name":"爱动漫","type":3,"api":"csp_girigiri","searchable":1,"filterable":1,"ext":"https://ani.girigirilove.com/"},

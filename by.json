@@ -1,4 +1,4 @@
-{"spider":"https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899","sites":[
+{"spider":"https://nos.netease.com/ysf/fa273578c0dc287266bd5dce5eae7082.png;md5;249047fab983b2fe5d716c2ea80a3c47","sites":[
 {"name":"⚙️配置┃中心","key":"MyConfig","type":3,"api":"csp_AAConfigAmns","searchable":0,"quickSearch":0,"changeable":0},
 {"name":"💥玩偶┃4K","key":"woWogg","type":3,"api":"csp_WoggAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"woWogg"},
 {"name":"💥木偶┃4K","key":"moWobg","type":3,"api":"csp_WobgAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"moWobg"},
@@ -38,8 +38,7 @@
 {"name":"🔗哔嘀┃2K","key":"Bidys","type":3,"api":"csp_BidysAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"Bidys"},
 {"name":"🔗厂长┃2K","key":"Czzy","type":3,"api":"csp_CzzyAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"Czzy"},
 {"name":"🔗LBV┃2K","key":"Libvio","type":3,"api":"csp_LibvioAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"Libvio"},
-{"name":"🎬嗷嗚┃漫剧","key":"MjHggg","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"MjHggg","genre":"shortdrama"},
-{"name":"🎬嗷嗚┃短剧","key":"DjHggg","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"DjHggg","genre":"shortdrama"},
+{"name":"🎬嗷嗚┃短剧","key":"DjHggg","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"genre":"shortdrama"},
 {"name":"🎬豪堪┃短剧","key":"HHkk","type":3,"api":"csp_HHkkAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
 {"name":"🎬盒马┃短剧","key":"Hema","type":3,"api":"csp_HemaAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
 {"name":"🎬拜拜┃短剧","key":"Bddj","type":3,"api":"csp_BddjAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},

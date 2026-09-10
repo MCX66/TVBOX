@@ -1,4 +1,4 @@
-{"spider":"https://nos.netease.com/ysf/fa273578c0dc287266bd5dce5eae7082.png;md5;249047fab983b2fe5d716c2ea80a3c47","sites":[
+{"spider":"https://zl.wpscdn.cn/2026/09/10/space_img/8855908f-fbfb-4ad7-9f00-306ded723478.png;md5;0bbd964a1c18fa08bdf21c667b267f94","sites":[
 {"name":"⚙️配置┃中心","key":"MyConfig","type":3,"api":"csp_AAConfigAmns","searchable":0,"quickSearch":0,"changeable":0},
 {"name":"💥玩偶┃4K","key":"woWogg","type":3,"api":"csp_WoggAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"woWogg"},
 {"name":"💥木偶┃4K","key":"moWobg","type":3,"api":"csp_WobgAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"moWobg"},
@@ -23,7 +23,6 @@
 {"name":"☁️蜡笔┃4K","key":"lbWobg","type":3,"api":"csp_WobgAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"lbWobg"},
 {"name":"☁️虎斑┃4K","key":"hbWobg","type":3,"api":"csp_WobgAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"hbWobg"},
 {"name":"☁️观影┃4K","key":"Gying","type":3,"api":"csp_GyingAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"Gying"},
-{"name":"☁️盘链┃4K","key":"Panl","type":3,"api":"csp_PanlAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"name":"☁️Sed┃4K","key":"SeedHub","type":3,"api":"csp_SeedHubAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"SeedHub"},
 {"name":"☁️七味┃4K","key":"Qiwei","type":3,"api":"csp_QiweiAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"Qiwei"},
 {"name":"☁️原盘┃4K","key":"Zhinan","type":3,"api":"csp_ZhinanAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"Zhinan"},
@@ -45,7 +44,7 @@
 {"name":"🎬围观┃短剧","key":"Wgdj","type":3,"api":"csp_WgdjAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
 {"name":"🎬喵喵┃短剧","key":"Qmdj","type":3,"api":"csp_QmdjAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
 {"name":"🎬星星┃短剧","key":"Xydj","type":3,"api":"csp_XydjAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
-{"name":"🧩橘汁┃快速","key":"Woshinidie","type":3,"jar":"https://zl.wpscdn.cn/2026/08/08/space_img/36332287-01c5-4b74-85f0-0cb070ddd57a.png;md5;0e457c08ca3c9fa3d949921cb73bb1f5","api":"csp_Woshinidie","searchable":1,"quickSearch":1,"changeable":0,"ext":{"abid":"2205","version":"3.0.2.3","pkg":"com.mxj.wylcjbxyx","md5":"090DA8F91D3F60CC6CB250D86F06FE12","sha1":"3DADB42485B7F864E766479ADA6B1176D81D8D73","site":"https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt"}},
+{"name":"🧩橘汁┃快速","key":"Woshinidie","type":3,"jar":"https://zl.wpscdn.cn/2026/09/10/space_img/d657e4e4-ef57-493c-9947-f287c4fb51a4.png;md5;80e2ca19f7ffc4d3536f13e6e3a18512","api":"csp_Woshinidie","searchable":1,"quickSearch":1,"changeable":0},
 {"name":"🧩金牌┃快速","key":"JinPai","type":3,"api":"csp_JinPaiAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"name":"🧩荐片┃快速","key":"JPian","type":3,"api":"csp_JPianAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"JPian"},
 {"name":"🧩热播┃快速","key":"Rbys","type":3,"api":"csp_RbysAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"Rbys"},

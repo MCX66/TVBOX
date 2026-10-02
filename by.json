@@ -1,4 +1,4 @@
-{"spider":"https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008","sites":[
+{"spider":"https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961","sites":[
 {"name":"⚙️配置┃中心","key":"MyConfig","type":3,"api":"csp_AAConfigAmns","searchable":0,"quickSearch":0,"changeable":0},
 {"name":"💥玩偶┃4K","key":"woWogg","type":3,"api":"csp_WoggAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"woWogg"},
 {"name":"💥木偶┃4K","key":"moWobg","type":3,"api":"csp_WobgAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"moWobg"},
@@ -42,9 +42,9 @@
 {"name":"📽️喵喵┃短剧","key":"Qmdj","type":3,"api":"csp_QmdjAmns","searchable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama"},
 {"name":"📽️星星┃短剧","key":"Xydj","type":3,"api":"csp_XydjAmns","searchable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama"},
 {"name":"⭐橘汁┃快速","key":"Woshinidie","type":3,"jar":"https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c","api":"csp_Woshinidie","searchable":1,"quickSearch":1,"changeable":1},
-{"name":"⭐荐片┃快速","key":"JPian","type":3,"api":"csp_JPianAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"JPian"},
 {"name":"⭐热播┃快速","key":"Rbys","type":3,"api":"csp_RbysAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Rbys"},
 {"name":"⭐杜北┃秒播","key":"Dubk","type":3,"api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Dubk"},
+{"name":"⭐荐片┃快速","key":"JPian","type":3,"api":"csp_JPianAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"JPian"},
 {"name":"⭐伊外┃快速","key":"YIys","type":3,"api":"csp_YIysAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"name":"⭐爱看┃采集","key":"AiBot","type":3,"api":"csp_AiBotAmns","searchable":1,"quickSearch":1,"changeable":1},
 {"name":"📡Bili┃Live","key":"Bilive","type":3,"api":"csp_BiliveAmns","searchable":1,"quickSearch":1,"changeable":1,"style":{"type":"rect","ratio":1.433}},
